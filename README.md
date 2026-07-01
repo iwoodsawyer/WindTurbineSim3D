@@ -37,7 +37,7 @@
 4. Press **Run** to start the simulation and view the 3D animation.
 
 ## Technical Specifications (NM80/NM92)
-- **Rotor Diameter**: 80.04 m / 92.0 m
+- **Rotor Diameter**: 80 m / 92 m
 - **Rated Power**: 2.75 MW
 - **Control Strategy**: Variable speed (Region 2) and Pitch regulated (Region 3).
 - **Generator**: 4-pole, 690V, 1140 RPM nominal.
